@@ -13,6 +13,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -22,6 +23,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 | [1370-increasing-decreasing-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1370-increasing-decreasing-string) |
 ## Counting
 |  |
@@ -35,4 +37,12 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
