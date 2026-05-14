@@ -7,6 +7,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1370-increasing-decreasing-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1370-increasing-decreasing-string) |
 ## Stack
 |  |
 | ------- |
@@ -15,4 +16,12 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Hash Table
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1370-increasing-decreasing-string) |
+## Counting
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1370-increasing-decreasing-string) |
 <!---LeetCode Topics End-->
