@@ -3,10 +3,10 @@
  * The sizes of the arrays are returned as *returnColumnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
-int min(int x, int y){
+inline int min(int x, int y){
     return (x > y) ? y : x;
 }
-int max(int x, int y){
+inline int max(int x, int y){
     return (x > y) ? x : y;
 }  
 
