@@ -27,6 +27,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 | [1370-increasing-decreasing-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1370-increasing-decreasing-string) |
@@ -48,6 +49,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
