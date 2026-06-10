@@ -1,20 +1,16 @@
 int minAddToMakeValid(char* s) {
-    int len = strlen(s);
-    int op = 0;
-    int cl = 0;
-   
-    if(len == 0) return 0;
-    for(int i =0; i <len; i++){
-        if(s[i] == '('){
-            op++;
-        }else{
-            if (op > 0){
-                op--;
-            }else {
-                cl ++;
+    int a = 0;
+    int b = 0;
+    for(int i = 0; s[i] !='\0'; i ++){
+        if (s[i] == '(') a++;
+        if (s[i] == ')') {
+            if (a > 0){
+                a--;
+            }else{
+                b++;
             }
             
         }
     }
-    return abs(op + cl);
+    return a+b;
 }
