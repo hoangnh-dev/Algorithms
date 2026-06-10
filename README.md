@@ -54,6 +54,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -83,6 +84,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -123,5 +125,10 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
