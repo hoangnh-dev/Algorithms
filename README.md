@@ -17,6 +17,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1021-remove-outermost-parentheses) |
@@ -60,6 +61,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
 | [0986-interval-list-intersections](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -68,6 +70,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
 ## Sorting
 |  |
