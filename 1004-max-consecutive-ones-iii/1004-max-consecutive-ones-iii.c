@@ -4,7 +4,7 @@ int longestOnes(int* nums, int numsSize, int k) {
     int maxLen = 0;
     for(int right = 0; right < numsSize ; right ++){
         if (nums[right] == 0) count++;
-        if (count > k){
+        while (count > k){
             if(nums[left] == 0) count--;
             left ++;
         }
