@@ -6,6 +6,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -28,6 +29,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
@@ -120,5 +122,6 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
