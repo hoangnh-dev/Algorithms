@@ -7,6 +7,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -31,6 +32,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
@@ -56,6 +58,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -77,6 +80,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
