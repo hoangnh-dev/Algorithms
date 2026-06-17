@@ -196,16 +196,19 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
 | ------- |
@@ -218,4 +221,8 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
