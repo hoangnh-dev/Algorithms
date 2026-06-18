@@ -84,6 +84,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
@@ -157,6 +158,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
 ## Design
@@ -208,6 +210,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
@@ -233,4 +236,8 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
