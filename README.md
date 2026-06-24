@@ -76,6 +76,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0027-remove-element](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -253,6 +254,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
