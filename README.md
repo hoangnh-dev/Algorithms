@@ -259,6 +259,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0461-hamming-distance) |
 ## Backtracking
 |  |
 | ------- |
