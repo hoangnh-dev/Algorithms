@@ -9,6 +9,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
@@ -44,6 +45,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
@@ -120,6 +122,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
