@@ -7,6 +7,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0242-valid-anagram) |
@@ -81,6 +82,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0078-subsets) |
@@ -289,4 +291,8 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
