@@ -10,6 +10,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0014-longest-common-prefix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
