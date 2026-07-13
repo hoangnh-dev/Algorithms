@@ -15,6 +15,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1021-remove-outermost-parentheses) |
@@ -66,6 +67,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
 |  |
@@ -207,6 +209,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
