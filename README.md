@@ -11,6 +11,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0020-valid-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
@@ -63,6 +64,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
@@ -209,6 +211,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
@@ -276,6 +279,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0191-number-of-1-bits) |
