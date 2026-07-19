@@ -64,6 +64,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
@@ -90,6 +91,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0014-longest-common-prefix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
