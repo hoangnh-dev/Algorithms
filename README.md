@@ -225,12 +225,14 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
