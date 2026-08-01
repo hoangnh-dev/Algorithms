@@ -39,6 +39,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -76,6 +77,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0088-merge-sorted-array) |
@@ -90,6 +92,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0001-two-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0049-group-anagrams) |
