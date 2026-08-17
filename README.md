@@ -115,6 +115,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
@@ -201,6 +202,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0225-implement-stack-using-queues](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -235,6 +237,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -289,6 +292,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
