@@ -76,6 +76,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0371-sum-of-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0994-rotting-oranges](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Monotonic Stack
@@ -206,11 +208,13 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -224,6 +228,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
