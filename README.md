@@ -37,6 +37,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
 | ------- |
@@ -128,6 +129,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [1004-max-consecutive-ones-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Monotonic Stack
@@ -234,6 +236,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -303,6 +306,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Graph Theory
 |  |
 | ------- |
