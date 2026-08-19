@@ -30,6 +30,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
@@ -207,6 +208,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
@@ -265,6 +267,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -291,6 +294,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0102-binary-tree-level-order-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,6 +307,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
@@ -360,4 +365,8 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0239-sliding-window-maximum) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
