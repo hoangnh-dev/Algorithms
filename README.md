@@ -19,6 +19,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
+| [0649-dota2-senate](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -45,6 +46,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0011-container-with-most-water](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
@@ -310,6 +312,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Graph Theory
