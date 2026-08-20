@@ -72,6 +72,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -328,6 +329,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
