@@ -75,6 +75,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0029-divide-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
@@ -334,6 +335,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0029-divide-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
@@ -347,6 +349,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
