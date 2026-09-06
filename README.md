@@ -29,6 +29,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | ------- |
 | [0020-valid-parentheses](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -277,6 +278,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0110-balanced-binary-tree](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
@@ -313,6 +315,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0104-maximum-depth-of-binary-tree](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
@@ -326,6 +329,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0104-maximum-depth-of-binary-tree](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0257-binary-tree-paths) |
 ## Queue
 |  |
