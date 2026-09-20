@@ -350,6 +350,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 ## Bit Manipulation
@@ -362,6 +363,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0136-single-number](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
