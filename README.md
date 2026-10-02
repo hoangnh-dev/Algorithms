@@ -64,6 +64,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0645-set-mismatch) |
 | [1370-increasing-decreasing-string](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1370-increasing-decreasing-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
@@ -127,6 +128,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0542-01-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0641-design-circular-deque) |
+| [0645-set-mismatch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0739-daily-temperatures) |
@@ -158,6 +160,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0347-top-k-frequent-elements](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0853-car-fleet) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nhhoang2661996-web/Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sweep Line
@@ -370,6 +373,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0397-integer-replacement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
 | ------- |
