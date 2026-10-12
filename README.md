@@ -374,6 +374,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0461-hamming-distance](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
 ## Backtracking
 |  |
 | ------- |
