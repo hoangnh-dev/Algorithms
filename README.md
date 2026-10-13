@@ -85,6 +85,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0371-sum-of-two-integers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0556-next-greater-element-iii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/nhhoang2661996-web/Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
@@ -375,6 +376,7 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 | [0476-number-complement](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
@@ -409,4 +411,8 @@ LeetCode solutions focused on algorithms, data structures, and problem-solving s
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nhhoang2661996-web/Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
